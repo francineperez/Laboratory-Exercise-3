@@ -12,11 +12,10 @@ print("Name variable:", name_var)
 
 # Part 3: Python Variable Names
 Nicole = "Group Member 1"
-Francine = "Group Member 2"
-Joshua = "Group Member 3"
-Cristel = "Group Member 4"
-Cyra = "Group Member 5"
-Rhianne = "Group Member 6"
+Joshua = "Group Member 2"
+Cristel = "Group Member 3"
+Cyra = "Group Member 4"
+Rhianne = "Group Member 5"
 
 print("\nVariable Names:", Nicole, Francine, Joshua, Cristel, Cyra, Rhianne)
 
